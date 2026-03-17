@@ -90,7 +90,7 @@ I'm continuously working to **improve my development skills**, build **real-worl
 
 ## 📂 PROJECTS SECTION
 
-> 🔧 These are **placeholder project cards** – replace links and descriptions as you build out your portfolio.
+
 
 <div align="center">
 
@@ -99,7 +99,7 @@ I'm continuously working to **improve my development skills**, build **real-worl
     <td width="50%">
       <h3 align="center">🌐 Modern Landing Page</h3>
       <p align="center">
-        <a href="https://github.com/malinadeem4665-cmd" target="_blank">
+        <a href="https://techflow-pro.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/VIEW%20PROJECT-9F72FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
       </p>
@@ -110,7 +110,7 @@ I'm continuously working to **improve my development skills**, build **real-worl
     <td width="50%">
       <h3 align="center">🧩 Drupal Business Site</h3>
       <p align="center">
-        <a href="https://github.com/malinadeem4665-cmd" target="_blank">
+        <a href="https://dev-drupal-business-theme.pantheonsite.io/" target="_blank">
           <img src="https://img.shields.io/badge/VIEW%20PROJECT-9F72FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
         </a>
       </p>
