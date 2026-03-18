@@ -155,20 +155,20 @@ I'm continuously working to **improve my development skills**, build **real-worl
 
 <!-- Main GitHub Stats -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=malinadeem4665-cmd&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Ali's GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinadeem4665-cmd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=malinadeem4665&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Ali's GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinadeem4665&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
 
 <br/>
 
 <!-- Streak Stats -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=malinadeem4665-cmd&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malinadeem4665&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 
 <br/>
 
 <!-- GitHub Trophies (animated SVG transitions) -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=malinadeem4665-cmd&theme=dracula&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=malinadeem4665&theme=dracula&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -178,7 +178,7 @@ I'm continuously working to **improve my development skills**, build **real-worl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=malinadeem4665-cmd&theme=tokyo-night&hide_border=true&area=true" alt="Ali's GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malinadeem4665&theme=tokyo-night&hide_border=true&area=true" alt="Ali's GitHub Activity Graph" />
 
 </div>
 
@@ -190,15 +190,15 @@ I'm continuously working to **improve my development skills**, build **real-worl
 
 <!-- Dark mode snake -->
   
-![Ali's GitHub Contribution Snake](https://github.com/malinadeem4665-cmd/malinadeem4665-cmd/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Ali's GitHub Contribution Snake](https://github.com/malinadeem4665/malinadeem4665-cmd/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!-- Light mode snake -->
 
-![Ali's GitHub Contribution Snake](https://github.com/malinadeem4665-cmd/malinadeem4665-cmd/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Ali's GitHub Contribution Snake](https://github.com/malinadeem4665/malinadeem4665-cmd/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
-> 🔁 Make sure you set up the **GitHub Action** for the snake animation in your `malinadeem4665-cmd` profile repository so these SVGs render and update automatically.
+> 🔁 Make sure you set up the **GitHub Action** for the snake animation in your `malinadeem4665` profile repository so these SVGs render and update automatically.
 
 ---
 
